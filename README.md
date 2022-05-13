@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Fero
-- 👀 I’m interested in: good books, mainly sci-fi novels. Productivity from time to time, to have more downtime... Satisfying my gear aqcuisition syndrome (some call this hobby photography)... 
-- 🌱 I’m currently learning how to do my job, as always. :)  Also, 2D game development with unity. 
-- 💞️ I’m looking to collaborate on getting thru life. 
-- 📫 How to reach me: I am not ready to be reached, yet. Come back in a year or two, or try to find me afk. ;) fero at apache dot org might work as well.
+- 👀 I’m interested in: good books, mainly sci-fi or fantasy novels. Productivity and selfhelp books from time to time... Satisfying my gear aqcuisition syndrome (some call this hobby photography). Stocks and investment. Diy stuff. Making life easier, cause it's hard enough as is. 
+- 🌱 I’m currently learning how to do my job, i.e. developing a Spring applicaiton running on Apache Tomcat. :)  Also, 2D game development with unity.
+- 💞️ I’m looking to collaborate in friendly manner. :) Don't have too much free time, but joining a game dev team as a hobbiist sounds like fun.
+- 📫 How to reach me: fero at apache dot org might work ;) .
 
 <!---
 fszabo2/fszabo2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
